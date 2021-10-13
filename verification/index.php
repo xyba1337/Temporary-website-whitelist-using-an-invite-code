@@ -89,7 +89,7 @@ if (isset($_POST["submitB"])) {
                 <li><span>Introduction</span></li>
             </ul>
             <div class="uk-column">
-                <p>Welcome to my little fun project! In which you are able to generate a desired number of codes and save them in the database. The codes mentioned can then be queried in the registration system and are then deleted so that no further access is possible. My highest priority is lightweight, security, and responsivness. Star me on <a href="#">GitHub</a>!</p>
+                <p>Welcome to my little fun project! In which you are able to generate a desired number of codes and save them in the database. The codes mentioned can then be queried in the registration system and are then deleted so that no further access is possible. My highest priority is lightweight, security, and responsivness. Star this project on <a href="https://github.com/xyba1337/Temporary-website-whitelist-using-an-invite-code">GitHub</a>!</p>
             </div>
 
 
@@ -137,7 +137,7 @@ if (isset($_POST["submitB"])) {
 
         <?php } else {  ?>
             <h3 style="color: green;">Welcome verified user!</h3>
-            <p>Star this project on GitHub if you found it helpful. ⭐❤️</p>
+            <p>Star this project on <a href="https://github.com/xyba1337/Temporary-website-whitelist-using-an-invite-code">GitHub</a> if you found it helpful. ⭐❤️</p>
 
 
         <?php } ?>
