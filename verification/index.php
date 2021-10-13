@@ -15,8 +15,6 @@ if ($session_life > $inactive) {
 
 
 //backend control
-$verification_code = "test";
-
 if (isset($_POST["submitB"])) {
     $code = $_POST["code"]; //store the verification code once submitted
 
